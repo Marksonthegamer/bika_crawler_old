@@ -59,7 +59,7 @@ jobs:
       - name: commit & push
         uses: actions-go/push@master
         with:
-          author-email: 'actions@github.com'
-          author-name: 'GitHub Actions'
+          author-email: '1405508442@qq.com'
+          author-name: 'wulei1997'
           commit-message: 'update downloaded comics'
           token: ${{ secrets.GIT_TOKEN }}
